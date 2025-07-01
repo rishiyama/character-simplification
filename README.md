@@ -1,11 +1,5 @@
 # Character Simplification
 
-This repository contains the code and resources for the paper:
-
-**Computer-Aided Multi-Stroke Character Simplification by Stroke Removal**  
-Ryo Ishiyama, Shinnosuke Matsuo, Seiichi Uchida  
-Kyushu University, Fukuoka, Japan
-
 📄 **[arXiv preprint](https://arxiv.org/abs/2506.23106v1)**
 
 ---
@@ -19,3 +13,12 @@ This project provides an implementation of a framework for systematically simpli
 The code and additional materials are currently being prepared and will be released soon.  
 Please watch this repository for updates.
 
+
+```
+@article{ishiyama2025multistroke,
+  title={Computer-Aided Multi-Stroke Character Simplification by Stroke Removal},
+  author={Ishiyama, Ryo and Matsuo, Shinnosuke and Uchida, Seiichi},
+  journal={arXiv preprint arXiv:2506.23106},
+  year={2025}
+}
+```
